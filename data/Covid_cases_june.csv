@@ -1,0 +1,157 @@
+Year,Year Ending,Local Government Area,Covid-19 cases
+2020,June,Greater Geelong (C),71
+2021,June,Greater Geelong (C),298
+2020,June,Mornington Peninsula (S),61
+2021,June,Mornington Peninsula (S),124
+2020,June,Port Phillip (C),56
+2021,June,Port Phillip (C),249
+2020,June,Whittlesea (C),66
+2021,June,Whittlesea (C),1142
+2020,June,Casey (C),113
+2021,June,Casey (C),952
+2020,June,Monash (C),56
+2021,June,Monash (C),300
+2020,June,Melbourne (C),91
+2021,June,Melbourne (C),853
+2020,June,Glen Eira (C),56
+2021,June,Glen Eira (C),173
+2020,June,Hume (C),180
+2021,June,Hume (C),1474
+2020,June,Bayside (C),32
+2021,June,Bayside (C),245
+2020,June,Maribyrnong (C),30
+2021,June,Maribyrnong (C),554
+2020,June,Stonnington (C),96
+2021,June,Stonnington (C),157
+2020,June,Brimbank (C),129
+2021,June,Brimbank (C),1904
+2020,June,Wyndham (C),75
+2021,June,Wyndham (C),2172
+2020,June,Frankston (C),42
+2021,June,Frankston (C),199
+2020,June,Yarra Ranges (S),27
+2021,June,Yarra Ranges (S),225
+2020,June,Hobsons Bay (C),28
+2021,June,Hobsons Bay (C),495
+2020,June,Moonee Valley (C),80
+2021,June,Moonee Valley (C),736
+2020,June,Whitehorse (C),25
+2021,June,Whitehorse (C),187
+2020,June,Macedon Ranges (S),10
+2021,June,Macedon Ranges (S),48
+2020,June,Cardinia (S),20
+2021,June,Cardinia (S),187
+2020,June,Kingston (C),32
+2021,June,Kingston (C),279
+2020,June,Yarra (C),43
+2021,June,Yarra (C),401
+2020,June,Interstate,74
+2021,June,Interstate,32
+2020,June,Maroondah (C),16
+2021,June,Maroondah (C),92
+2020,June,Banyule (C),95
+2021,June,Banyule (C),357
+2020,June,Boroondara (C),80
+2021,June,Boroondara (C),190
+2020,June,Surf Coast (S),5
+2021,June,Surf Coast (S),7
+2020,June,Hepburn (S),2
+2021,June,Hepburn (S),1
+2020,June,Warrnambool (C),5
+2021,June,Warrnambool (C),9
+2020,June,Mildura (RC),5
+2021,June,Mildura (RC),1
+2020,June,Melton (C),82
+2021,June,Melton (C),1063
+2020,June,Greater Dandenong (C),27
+2021,June,Greater Dandenong (C),513
+2020,June,Darebin (C),57
+2021,June,Darebin (C),629
+2020,June,Greater Shepparton (C),17
+2021,June,Greater Shepparton (C),35
+2020,June,Moreland (C),112
+2021,June,Moreland (C),951
+2020,June,Mitchell (S),15
+2021,June,Mitchell (S),79
+2020,June,Ballarat (C),9
+2021,June,Ballarat (C),48
+2020,June,Manningham (C),30
+2021,June,Manningham (C),136
+2020,June,East Gippsland (S),2
+2021,June,East Gippsland (S),6
+2020,June,Baw Baw (S),6
+2021,June,Baw Baw (S),11
+2020,June,Knox (C),24
+2021,June,Knox (C),143
+2020,June,Moyne (S),1
+2021,June,Moyne (S),1
+2020,June,Mount Alexander (S),6
+2021,June,Mount Alexander (S),3
+2020,June,Wellington (S),12
+2021,June,Wellington (S),5
+2020,June,South Gippsland (S),5
+2021,June,South Gippsland (S),9
+2020,June,Nillumbik (S),31
+2021,June,Nillumbik (S),116
+2020,June,Greater Bendigo (C),10
+2021,June,Greater Bendigo (C),91
+2020,June,Wangaratta (RC),2
+2021,June,Wangaratta (RC),0
+2020,June,Latrobe (C),10
+2021,June,Latrobe (C),44
+2020,June,Moira (S),8
+2021,June,Moira (S),1
+2020,June,Bass Coast (S),4
+2021,June,Bass Coast (S),6
+2020,June,Central Goldfields (S),1
+2021,June,Central Goldfields (S),1
+2020,June,Moorabool (S),3
+2021,June,Moorabool (S),35
+2020,June,Gannawarra (S),2
+2021,June,Gannawarra (S),0
+2020,June,Northern Grampians (S),3
+2021,June,Northern Grampians (S),0
+2020,June,Loddon (S),4
+2021,June,Loddon (S),1
+2020,June,Mansfield (S),3
+2021,June,Mansfield (S),7
+2020,June,Colac-Otway (S),1
+2021,June,Colac-Otway (S),138
+2020,June,Strathbogie (S),2
+2021,June,Strathbogie (S),0
+2020,June,Ararat (RC),5
+2021,June,Ararat (RC),3
+2020,June,Murrindindi (S),2
+2021,June,Murrindindi (S),8
+2020,June,Southern Grampians (S),1
+2021,June,Southern Grampians (S),1
+2020,June,West Wimmera (S),1
+2021,June,West Wimmera (S),0
+2020,June,Campaspe (S),5
+2021,June,Campaspe (S),5
+2020,June,Unknown,12
+2021,June,Unknown,79
+2020,June,Wodonga (C),1
+2021,June,Wodonga (C),1
+2020,June,Horsham (RC),3
+2021,June,Horsham (RC),11
+2020,June,Golden Plains (S),2
+2021,June,Golden Plains (S),16
+2020,June,Alpine (S),1
+2021,June,Alpine (S),0
+2020,June,Swan Hill (RC),4
+2021,June,Swan Hill (RC),2
+2020,June,Queenscliffe (B),0
+2021,June,Queenscliffe (B),1
+2020,June,Benalla (RC),2
+2021,June,Benalla (RC),1
+2020,June,Glenelg (S),0
+2021,June,Glenelg (S),19
+2020,June,Indigo (S),0
+2021,June,Indigo (S),1
+2020,June,Corangamite (S),1
+2021,June,Corangamite (S),3
+2020,June,Pyrenees (S),0
+2021,June,Pyrenees (S),3
+2020,June,Yarriambiack (S),1
+2021,June,Yarriambiack (S),0
