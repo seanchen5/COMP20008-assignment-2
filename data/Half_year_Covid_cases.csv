@@ -1,0 +1,235 @@
+Year,Time period,Local Government Area,Covid-19 cases
+2020,Jan - June,Greater Geelong (C),71
+2020,July - Dec,Greater Geelong (C),298
+2021,Jan - June,Greater Geelong (C),0
+2020,Jan - June,Mornington Peninsula (S),61
+2020,July - Dec,Mornington Peninsula (S),124
+2021,Jan - June,Mornington Peninsula (S),0
+2020,Jan - June,Port Phillip (C),56
+2020,July - Dec,Port Phillip (C),241
+2021,Jan - June,Port Phillip (C),8
+2020,Jan - June,Whittlesea (C),66
+2020,July - Dec,Whittlesea (C),1116
+2021,Jan - June,Whittlesea (C),26
+2020,Jan - June,Casey (C),113
+2020,July - Dec,Casey (C),950
+2021,Jan - June,Casey (C),2
+2020,Jan - June,Monash (C),56
+2020,July - Dec,Monash (C),298
+2021,Jan - June,Monash (C),2
+2020,Jan - June,Melbourne (C),91
+2020,July - Dec,Melbourne (C),830
+2021,Jan - June,Melbourne (C),23
+2020,Jan - June,Glen Eira (C),56
+2020,July - Dec,Glen Eira (C),168
+2021,Jan - June,Glen Eira (C),5
+2020,Jan - June,Hume (C),180
+2020,July - Dec,Hume (C),1462
+2021,Jan - June,Hume (C),12
+2020,Jan - June,Bayside (C),32
+2020,July - Dec,Bayside (C),237
+2021,Jan - June,Bayside (C),8
+2020,Jan - June,Maribyrnong (C),30
+2020,July - Dec,Maribyrnong (C),549
+2021,Jan - June,Maribyrnong (C),5
+2020,Jan - June,Stonnington (C),96
+2020,July - Dec,Stonnington (C),155
+2021,Jan - June,Stonnington (C),2
+2020,Jan - June,Brimbank (C),129
+2020,July - Dec,Brimbank (C),1901
+2021,Jan - June,Brimbank (C),3
+2020,Jan - June,Wyndham (C),75
+2020,July - Dec,Wyndham (C),2168
+2021,Jan - June,Wyndham (C),4
+2020,Jan - June,Frankston (C),42
+2020,July - Dec,Frankston (C),199
+2021,Jan - June,Frankston (C),0
+2020,Jan - June,Yarra Ranges (S),27
+2020,July - Dec,Yarra Ranges (S),225
+2021,Jan - June,Yarra Ranges (S),0
+2020,Jan - June,Hobsons Bay (C),28
+2020,July - Dec,Hobsons Bay (C),489
+2021,Jan - June,Hobsons Bay (C),6
+2020,Jan - June,Moonee Valley (C),80
+2020,July - Dec,Moonee Valley (C),734
+2021,Jan - June,Moonee Valley (C),2
+2020,Jan - June,Whitehorse (C),25
+2020,July - Dec,Whitehorse (C),182
+2021,Jan - June,Whitehorse (C),5
+2020,Jan - June,Macedon Ranges (S),10
+2020,July - Dec,Macedon Ranges (S),48
+2021,Jan - June,Macedon Ranges (S),0
+2020,Jan - June,Cardinia (S),20
+2020,July - Dec,Cardinia (S),187
+2021,Jan - June,Cardinia (S),0
+2020,Jan - June,Kingston (C),32
+2020,July - Dec,Kingston (C),271
+2021,Jan - June,Kingston (C),8
+2020,Jan - June,Yarra (C),43
+2020,July - Dec,Yarra (C),401
+2021,Jan - June,Yarra (C),0
+2020,Jan - June,Interstate,74
+2020,July - Dec,Interstate,32
+2021,Jan - June,Interstate,0
+2020,Jan - June,Maroondah (C),16
+2020,July - Dec,Maroondah (C),90
+2021,Jan - June,Maroondah (C),2
+2020,Jan - June,Banyule (C),95
+2020,July - Dec,Banyule (C),356
+2021,Jan - June,Banyule (C),1
+2020,Jan - June,Boroondara (C),80
+2020,July - Dec,Boroondara (C),187
+2021,Jan - June,Boroondara (C),3
+2020,Jan - June,Surf Coast (S),5
+2020,July - Dec,Surf Coast (S),7
+2021,Jan - June,Surf Coast (S),0
+2020,Jan - June,Hepburn (S),2
+2020,July - Dec,Hepburn (S),1
+2021,Jan - June,Hepburn (S),0
+2020,Jan - June,Warrnambool (C),5
+2020,July - Dec,Warrnambool (C),9
+2021,Jan - June,Warrnambool (C),0
+2020,Jan - June,Mildura (RC),5
+2020,July - Dec,Mildura (RC),1
+2021,Jan - June,Mildura (RC),0
+2020,Jan - June,Melton (C),82
+2020,July - Dec,Melton (C),1061
+2021,Jan - June,Melton (C),2
+2020,Jan - June,Greater Dandenong (C),27
+2020,July - Dec,Greater Dandenong (C),512
+2021,Jan - June,Greater Dandenong (C),1
+2020,Jan - June,Darebin (C),57
+2020,July - Dec,Darebin (C),616
+2021,Jan - June,Darebin (C),13
+2020,Jan - June,Greater Shepparton (C),17
+2020,July - Dec,Greater Shepparton (C),35
+2021,Jan - June,Greater Shepparton (C),0
+2020,Jan - June,Moreland (C),112
+2020,July - Dec,Moreland (C),940
+2021,Jan - June,Moreland (C),11
+2020,Jan - June,Mitchell (S),15
+2020,July - Dec,Mitchell (S),79
+2021,Jan - June,Mitchell (S),0
+2020,Jan - June,Ballarat (C),9
+2020,July - Dec,Ballarat (C),48
+2021,Jan - June,Ballarat (C),0
+2020,Jan - June,Manningham (C),30
+2020,July - Dec,Manningham (C),136
+2021,Jan - June,Manningham (C),0
+2020,Jan - June,East Gippsland (S),2
+2020,July - Dec,East Gippsland (S),6
+2021,Jan - June,East Gippsland (S),0
+2020,Jan - June,Baw Baw (S),6
+2020,July - Dec,Baw Baw (S),11
+2021,Jan - June,Baw Baw (S),0
+2020,Jan - June,Knox (C),24
+2020,July - Dec,Knox (C),143
+2021,Jan - June,Knox (C),0
+2020,Jan - June,Moyne (S),1
+2020,July - Dec,Moyne (S),1
+2021,Jan - June,Moyne (S),0
+2020,Jan - June,Mount Alexander (S),6
+2020,July - Dec,Mount Alexander (S),3
+2021,Jan - June,Mount Alexander (S),0
+2020,Jan - June,Wellington (S),12
+2020,July - Dec,Wellington (S),5
+2021,Jan - June,Wellington (S),0
+2020,Jan - June,South Gippsland (S),5
+2020,July - Dec,South Gippsland (S),9
+2021,Jan - June,South Gippsland (S),0
+2020,Jan - June,Nillumbik (S),31
+2020,July - Dec,Nillumbik (S),116
+2021,Jan - June,Nillumbik (S),0
+2020,Jan - June,Greater Bendigo (C),10
+2020,July - Dec,Greater Bendigo (C),91
+2021,Jan - June,Greater Bendigo (C),0
+2020,Jan - June,Wangaratta (RC),2
+2020,July - Dec,Wangaratta (RC),0
+2021,Jan - June,Wangaratta (RC),0
+2020,Jan - June,Latrobe (C),10
+2020,July - Dec,Latrobe (C),44
+2021,Jan - June,Latrobe (C),0
+2020,Jan - June,Moira (S),8
+2020,July - Dec,Moira (S),1
+2021,Jan - June,Moira (S),0
+2020,Jan - June,Bass Coast (S),4
+2020,July - Dec,Bass Coast (S),6
+2021,Jan - June,Bass Coast (S),0
+2020,Jan - June,Central Goldfields (S),1
+2020,July - Dec,Central Goldfields (S),1
+2021,Jan - June,Central Goldfields (S),0
+2020,Jan - June,Moorabool (S),3
+2020,July - Dec,Moorabool (S),35
+2021,Jan - June,Moorabool (S),0
+2020,Jan - June,Gannawarra (S),2
+2020,July - Dec,Gannawarra (S),0
+2021,Jan - June,Gannawarra (S),0
+2020,Jan - June,Northern Grampians (S),3
+2020,July - Dec,Northern Grampians (S),0
+2021,Jan - June,Northern Grampians (S),0
+2020,Jan - June,Loddon (S),4
+2020,July - Dec,Loddon (S),1
+2021,Jan - June,Loddon (S),0
+2020,Jan - June,Mansfield (S),3
+2020,July - Dec,Mansfield (S),7
+2021,Jan - June,Mansfield (S),0
+2020,Jan - June,Colac-Otway (S),1
+2020,July - Dec,Colac-Otway (S),138
+2021,Jan - June,Colac-Otway (S),0
+2020,Jan - June,Strathbogie (S),2
+2020,July - Dec,Strathbogie (S),0
+2021,Jan - June,Strathbogie (S),0
+2020,Jan - June,Ararat (RC),5
+2020,July - Dec,Ararat (RC),3
+2021,Jan - June,Ararat (RC),0
+2020,Jan - June,Murrindindi (S),2
+2020,July - Dec,Murrindindi (S),8
+2021,Jan - June,Murrindindi (S),0
+2020,Jan - June,Southern Grampians (S),1
+2020,July - Dec,Southern Grampians (S),1
+2021,Jan - June,Southern Grampians (S),0
+2020,Jan - June,West Wimmera (S),1
+2020,July - Dec,West Wimmera (S),0
+2021,Jan - June,West Wimmera (S),0
+2020,Jan - June,Campaspe (S),5
+2020,July - Dec,Campaspe (S),5
+2021,Jan - June,Campaspe (S),0
+2020,Jan - June,Unknown,12
+2020,July - Dec,Unknown,79
+2021,Jan - June,Unknown,0
+2020,Jan - June,Wodonga (C),1
+2020,July - Dec,Wodonga (C),1
+2021,Jan - June,Wodonga (C),0
+2020,Jan - June,Horsham (RC),3
+2020,July - Dec,Horsham (RC),11
+2021,Jan - June,Horsham (RC),0
+2020,Jan - June,Golden Plains (S),2
+2020,July - Dec,Golden Plains (S),16
+2021,Jan - June,Golden Plains (S),0
+2020,Jan - June,Alpine (S),1
+2020,July - Dec,Alpine (S),0
+2021,Jan - June,Alpine (S),0
+2020,Jan - June,Swan Hill (RC),4
+2020,July - Dec,Swan Hill (RC),2
+2021,Jan - June,Swan Hill (RC),0
+2020,Jan - June,Queenscliffe (B),0
+2020,July - Dec,Queenscliffe (B),1
+2021,Jan - June,Queenscliffe (B),0
+2020,Jan - June,Benalla (RC),2
+2020,July - Dec,Benalla (RC),1
+2021,Jan - June,Benalla (RC),0
+2020,Jan - June,Glenelg (S),0
+2020,July - Dec,Glenelg (S),19
+2021,Jan - June,Glenelg (S),0
+2020,Jan - June,Indigo (S),0
+2020,July - Dec,Indigo (S),1
+2021,Jan - June,Indigo (S),0
+2020,Jan - June,Corangamite (S),1
+2020,July - Dec,Corangamite (S),3
+2021,Jan - June,Corangamite (S),0
+2020,Jan - June,Pyrenees (S),0
+2020,July - Dec,Pyrenees (S),3
+2021,Jan - June,Pyrenees (S),0
+2020,Jan - June,Yarriambiack (S),1
+2020,July - Dec,Yarriambiack (S),0
+2021,Jan - June,Yarriambiack (S),0
